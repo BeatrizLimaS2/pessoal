@@ -35,6 +35,7 @@ void setup ()
   pinMode(PIN_SHUTDOWN, OUTPUT);
 }
 
+float baseTime;
 bool controlStatus = false;
 
 
