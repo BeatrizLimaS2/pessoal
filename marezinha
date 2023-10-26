@@ -1,0 +1,21 @@
+#include <Arduino.h>
+
+#define PIN_OUT_PWM_MOTOR_RIGHT 0
+#define PIN_OUT_PWM_MOTOR_LEFT 0
+
+#define PIN_OUT_CHARGE_SENSOR 0
+
+#define PIN_IN_CONTROL_1 0
+#define PIN_IN_CONTROL_2 0
+
+#define PIN_OUT_CONTROL_ERROR 0
+
+#define PIN_OUT_BUZZER 0 
+
+#define PIN_OUT_HEADLIGHT 0
+
+#define PIN__CURRENT_SENSOR 0
+
+#define PIN_SHUTDOWN 0
+
+
